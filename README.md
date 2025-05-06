@@ -14,21 +14,17 @@ Este proyecto simula el proceso de testing para una plataforma ficticia de video
       - cd gamezone-qa-testing/automated_testing
 pip install -r requirements.txt
 pytest test_login.py
+
   - 🔧 Requisitos (actualizado)
     - Tu archivo requirements.txt debe tener:
       - selenium, pytest, webdriver-manager
+
   - ▶️ ¿Cómo ejecutarlo?
     - Abre terminal y ve a la carpeta automated_testing
     - Instala dependencias
       - pip install -r requirements.txt
     - Ejecuta el test:
       - pytest test_login.py
-
-Instala dependencias:
-
-bash
-Copiar código
-pip install -r requirements.txt
 
 ## 🧪 Tecnologías utilizadas
 
