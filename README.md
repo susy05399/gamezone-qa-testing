@@ -8,6 +8,28 @@ Este proyecto simula el proceso de testing para una plataforma ficticia de video
 - `/manual_testing`: Evidencia y resultados de pruebas manuales
 - `/automated_testing`: Scripts automatizados con Selenium + Python
 
+  ### 🧠 Notas:
+  - 🖥️ Para correr el test:
+    - Asegúrate de tener Python instalado y luego:
+      - cd gamezone-qa-testing/automated_testing
+pip install -r requirements.txt
+pytest test_login.py
+  - 🔧 Requisitos (actualizado)
+    - Tu archivo requirements.txt debe tener:
+      - selenium, pytest, webdriver-manager
+  - ▶️ ¿Cómo ejecutarlo?
+    - Abre terminal y ve a la carpeta automated_testing
+    - Instala dependencias
+      - pip install -r requirements.txt
+    - Ejecuta el test:
+      - pytest test_login.py
+
+Instala dependencias:
+
+bash
+Copiar código
+pip install -r requirements.txt
+
 ## 🧪 Tecnologías utilizadas
 
 - Python 3
@@ -24,5 +46,8 @@ Este proyecto simula el proceso de testing para una plataforma ficticia de video
 
 ## 📫 Contacto
 
-Proyecto creado por **Susana [Tu Apellido]**  
-[Tu LinkedIn o GitHub]
+Proyecto creado por **Susana Pérez Aparicio**  
+✉️ perezapariciosusana@gmail.com
+💻 https://github.com/susy05399
+🧩 www.linkedin.com/in/susana811
+📞 5626050830
